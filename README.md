@@ -1,2 +1,4 @@
 # Segmentation of characters on car license plate
- DIP FINAL PROJECT
+ DIGITAL IMAGE PROCESSING FINAL PROJECT
+
+Find each character of car license plate , and return coordinates of its upper left side / lower right side.
